@@ -7,7 +7,7 @@ function Header() {
         </div>
         <div className="flex justify-between px-10 items-center gap-5 text-xl">
           <a href="#" className="contact-link">Contact</a>
-          <div className="user-dropdown">
+          <div className="user-dropdown hidden">
             <span>Your Name</span>
             <i className="arrow-down"></i>
           </div>

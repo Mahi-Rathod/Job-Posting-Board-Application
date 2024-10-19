@@ -113,13 +113,13 @@ Make sure you have the following installed on your machine:
 
 ### Screenshots 
 ### SignUP
-![SignUP Page](./Screenshots/s1.jpg)
+![SignUP Page](./Screenshots/s1.JPG)
 
 ### Varify OTP
-![Varify OTP](./Screenshots/s2.jpg)
+![Varify OTP](./Screenshots/s2.JPG)
 
 ### Home Page
-![Home Page](./Screenshots/s3.jpg)
+![Home Page](./Screenshots/s3.JPG)
 
 ### Arrange Interview
-![Arrange Interview](./Screenshots/s4.jpg)
+![Arrange Interview](./Screenshots/s4.JPG)
